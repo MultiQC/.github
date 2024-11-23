@@ -6,7 +6,7 @@
     </picture>
   </a>
 </p>
-<p align="center">🌐 Visit the website: <a href="https://multiqc.io">multiqc.io</a></p>
+<p align="center">🌐 Visit the website: <a href="https://seqera.io/multiqc/">seqera.io/multiqc</a></p>
 
 <p align="center">👩‍💻 Check out the <a href="https://community.seqera.io">Community Forum</a>.</p>
 
