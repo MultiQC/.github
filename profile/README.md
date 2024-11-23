@@ -10,4 +10,4 @@
 
 <p align="center">👩‍💻 Check out the <a href="https://community.seqera.io">Community Forum</a>.</p>
 
-<p align="center">📚 Learn MultiQC through the <a href="https://multiqc.info/docs/">official documentation</a>.</p>
+<p align="center">📚 Learn MultiQC through the <a href="https://docs.seqera.io/multiqc">official documentation</a>.</p>
